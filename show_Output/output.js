@@ -6,3 +6,4 @@ const borrow = 200;
 const goals = 3;
 const pillow = 3;
 console.log(age, bookToRead, wakeUpTime, wastedTime, borrow, goals, pillow);
+console.log("done");
